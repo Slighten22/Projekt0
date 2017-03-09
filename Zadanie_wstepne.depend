@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488833041 source:/home/slighten/Documents/STUDIA/PROI/Zadanie_wstepne/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
